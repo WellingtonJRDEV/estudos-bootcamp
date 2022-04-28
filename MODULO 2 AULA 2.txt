@@ -1,0 +1,43 @@
+===== Aula 2 =====
+
+TERMOS CHAVE
+
+downlod, upload - baixar e carregar
+browser - navegador
+banda larga - forma de conexão
+cache - armazenamento de informações temporário
+crack - chave falsa irrestrita de um software
+email - correio eletrónico
+emoticons/emoji - figuras
+gif/jpg/png - formato de imagens
+host - servidor
+html - linguagem de marcação
+http - protocolo de transferencia de dados
+ícone - referência
+link - um encurtador para navegar a determinada URL
+login/logon - conectar
+logout/logoff - desconectar
+mp3 - formato de audio
+multimídia - várias mídias
+nick - apelido
+online/offline - conectado e desconectado
+pixel - um quadrado de imagem
+spam - email massivo
+URL - endereço
+vírus - software malicioso
+backup - cópia de segurança dos dados
+blog - página web para publicações
+(cyber)bullying - xingamento digital (ridicularização)
+3G/4G/5G - velocidades internet móvel
+coockies - registros de atividade
+firewall - barreira para impedir acessos indevidos
+hacker - pessoas que atuam na segurança da informação
+ip - registro digital de um dispositivo
+keylogger - um software malicioso que captura todas as informações digitadas
+phishing - intenção de roubar dados enganando outra pessoa com sites similares
+click bait - notícias clicaveis
+fake news - notícias falsas, boatos
+podcast - programa de rádio/video
+vlog - diário em forma de vídeo
+pop-up - caixas que abrem rapidamente
+youtuber - pessoa que trabalha produzindo conteúdo para o youtube

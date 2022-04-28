@@ -1,0 +1,63 @@
+====================== TCP/IP ==========================
+
+- TCP (Transmission Controll Protocoll) [Protocolo de Controle de Transmissão]
+Encarregado por controlar e gerenciar os pacotes trafegados na rede.
+
+- IP (Internet Protocol)
+Protocolo que organiza os pacotes e criptografa as mensagens do emissor até o receptor
+
+Trabalha em 4 camadas
+*FÍSICA (EX: placa de rede)
+*REDE (EX: ip)
+*TRANSPORTE (EX: TCP, UDP)
+*APLICAÇÃO (EX: FTP, SMTP, HTTP)
+
+UDP -
+	Rápido
+	Não confiável
+	Carro do ovo
+	Livestream
+
+TCP -
+	Voltado à conexão
+	HahdShake
+	Integridade, ordem dos dados
+	Aplicativo de mensagens de texto
+
+====================== PORTAS ============================
+
+As portas por onde os dados sairão e chegarão:
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443: CONEXÃO SEGURA
+
+====================== ROTEADORES, MODEM, SWITCH ========================
+
+* MODEM -
+
+	Modulator-Demodulator
+	Hardware que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro
+
+* ROTEADOR -
+	
+	Distribui internet para um ou mais dispositivos de uma rede.
+	Pode fazer a comunicação entre redes.
+	Pode ser "burro" (distribui os pacotes para todos os endereços e o destinatário recebe, isso gera um enorme tráfego na rede).
+
+* SWITCH -
+	
+	Distribui internet para um ou mais dispositivos de uma rede.
+	Já distribui os pacotes para os endereços corretos.
+
+EXERCÍCIO
+1) DESCOBRIR QUAIS PORTAS PRÓPRIAS O GOOGLE USA.
+
+
+
+2) PORTAS USADAS PELO MYSQL E PELO APACHE.
+
+MySQL porta 3306
+Apache porta 443
