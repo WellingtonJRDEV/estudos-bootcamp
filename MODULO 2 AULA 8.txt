@@ -1,0 +1,29 @@
+======= STACKS ======
+
+O QUE SÃO STACKS
+	Pilhas de tecnologia
+	Conjunto de softwares necessários e suficientes para executar um aplicativo/programa.
+	Linguagens de programação
+	Ambientes e ferramentas de interação com o app/sw
+	Capacidade e limitação de performance
+	Pontos fortes e fracos de app/sw
+
+
+====== FRONT END =======
+
+Parte da frente (layout + interatividade com usuário)
+Site, software, aplicativo, web-service
+Interface, UI, UX
+Lógica de programação, HTML, CSS
+jQuery/JS/AJAX, PHP, BootStrap/Outros frameworks
+
+====== BACK END ========
+
+Retaguarda
+Servidores, banco de dados
+meio-de-campo entre interface de dados e regra de negócio.
+MySQL, Oracle, protocolos de comunicação, PHP, Java, Node.js
+
+====== FULL-STACK ========
+
+Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução do software

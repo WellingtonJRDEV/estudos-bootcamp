@@ -1,11 +1,32 @@
 ===================== BROWSER =========================
 
+Navegador- interpreta a linguagem de programação e de marcação e exibe.
+Página estática -
+	que não possui interação(movimentação de layout) para a interação com o usuário.
 
-
+Página dinâmica - 
+	Possui interações, funções que ajudam e contribuem para uma melhor interação com o usuário
 ===================== SITE, APP, E-COMMERCE ========================
 
+Página da internet
+Diversos propósitos
+Podem ser feitas em diversas LP
+D/XHTML caindo em desuso
 
+APLICATIVO
+	Um software que é executado no smartphone
 
-===================== WEB SERVICE ===============================
+E-COMMERCE
+	Sites de compra e venda, o sistema de pagamento pode ser exterior ao site.
 
+===================== WEB SERVER ===============================
 
+Existem 2 tipos: estático e dinâmico. O estático é um servidor físico onde são armazenados arquivos, softwares e/ou banco de dados. O dinâmico se refere aos softwares que estão presentes no servidor físico.
+
+* Os tipos de Web Server dinâmicos são:
+	Arquivos (file server) [armazena arquivos]
+	Aplicações (application server) [gerencia dados e aplicações]
+	Banco de dados (database)
+	All (todos juntos)
+
+* Os dados precisam estar localizados em um servidor.

@@ -1,0 +1,31 @@
+================ PRINCIPAIS LINGUAGENS DE PROGRAMAÇÃO ==================
+
+LINGUAGENS
+	HTML (marcação)
+	CSS  (folha de estilo)
+	JavaScript(Jquery, AJAX, diversas libs)
+	PHP
+	.NET
+	ASP
+	Java
+	Ruby (on Rails)
+	Python
+	Perl
+	C/C++/C#
+
+================ TERMOS COMUNS ====================
+404
+Algoritmo
+ALT - texto alternativo
+API - Função para executar outras funções
+Aplicação - Softwares
+Back-end - Parte que roda as requisições e regras de negócio
+Biblioteca/dll - permite a utilização de funções para manipular dados
+Bootstrap - framework javascript
+Breakpoints - ponto chave para montar uma tela / pontos de checagem (debug)
+Browsers/navegador - local onde são exibidos os conteúdos dos sites
+Bug - erro
+Cache - armazena fragmentos dos sites visitados
+Código - texto escrito (instrução) que é interpretado por uma LP
+Controle de versão - git/github
+Cookies - algorítmo de busca de partes já pesquisadas.
