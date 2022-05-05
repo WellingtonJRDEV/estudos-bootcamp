@@ -1,0 +1,27 @@
+FLEXBOX - 
+
+CONTEXTO DO FLEX-CONTAINER
+	É a tag que envolve os filhos(child) e é nela que colocamos o "display: flex";
+
+flex-container - PROPRIEDADES:
+
+*display (inicializa o método flex)
+*flex-direction (direcionamento do item, linha ou coluna)
+*flex-wrap (quebra de linha)
+*flex-flow (abreviação para direction e wrap)
+*justify-content (alinha os itens do container de acordo com sua direção)
+*align-items (alinha os itens de acordo com o eixo do container)
+*align-content (alinha de acordo com as linhas do container)
+
+FLEX ITEM
+
+	São os filhos diretos do Flex-Container, também podem se tornar flex-container.
+
+flex-item - PROPRIEDADES:
+
+*flex-grow (define o fator de crescimento)
+*flex-basis (define o valor do item antes da distribuição do espaço restante do container)
+*flex-shrink (define a capacidade de redução)
+*flex (abreviação para grow, basis e shrink)
+*order (ordem de distribuição e listagem dos itens)
+*align-self (define alinhamento de um item específico)
